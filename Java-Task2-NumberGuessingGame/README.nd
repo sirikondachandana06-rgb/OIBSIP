@@ -1,0 +1,31 @@
+# Number Guessing Game
+
+## Description
+A simple Java-based Number Guessing Game developed as part of the Oasis Infobyte Java Development Internship.
+
+## Features
+- Generates a random number between 1 and 100
+- Maximum 7 attempts per round
+- Shows "Too High" or "Too Low" hints
+- Displays the correct answer after 7 unsuccessful attempts
+- Allows the user to play multiple rounds
+- Keeps track of the score
+- Displays the final score
+
+## Technologies Used
+- Java
+- Java Scanner
+- Java Random
+
+## How to Run
+1. Open `NumberGuessingGame.java`
+2. Compile the program using:
+   `javac NumberGuessingGame.java`
+3. Run the program using:
+   `java NumberGuessingGame`
+
+## Internship
+Oasis Infobyte - Java Development Internship
+
+## Task
+Task 2 - Number Guessing Game
